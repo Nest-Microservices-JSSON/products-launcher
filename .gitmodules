@@ -7,3 +7,6 @@
 [submodule "client-gateway"]
 	path = client-gateway
 	url = https://github.com/Nest-Microservices-JSSON/client-gateway
+[submodule "auth-ms"]
+	path = auth-ms
+	url = https://github.com/Nest-Microservices-JSSON/auth-ms.git
